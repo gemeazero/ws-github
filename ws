@@ -1,2 +1,2 @@
-ana sofia
+ana
 bla
